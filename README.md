@@ -6,7 +6,8 @@ A small collection of notebooks I made at University of Maryland's Smith Investm
   <img src="https://github.com/arda-arslan/umdsif/blob/master/assets/backtester_img.png" width="95%" />
 </p>
 
-## Description
+## Notebooks
+
 1. Backtester: Backtesting a research idea and calculating it's performance metrics are important steps in seeing whether an idea holds water. This backtester calculates the daily performance metrics (net of transaction costs) of a long-only strategy, as well as the corresponding rolling sharpe and sortino ratios.
 2. Intro to Quantitative Research: Everybody starts somewhere. This notebook is meant to be a light introduction to Quantopian's research platform for beginners.
 3. Easy Betas and Other Factors: I had some difficulty finding an easy way to calculate betas, so I created this notebook to walk myself through that process.
